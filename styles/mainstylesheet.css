@@ -24,14 +24,6 @@ body {
   position: fixed;
 }
 
-p {
-  font-family: 'Montserrat';
-  color: white;
-  font-size: 40px;    
-  text-align: center;
-  margin-top: -10em;
-}
-
 .button1 {
     justify-content: center;
     border-radius: 50%;
