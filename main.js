@@ -1,7 +1,7 @@
 var shoe1 = {
     title: "Salomon XT6",
     description:
-        "The S/Lab series applies hallmarks of Salomon's trail running footwear : the support and stability of the Advanced Chassis design, responsive ground feel and superior traction to energy returning cushioning.",
+        "The S/Lab series applies hallmarks of Salomon's trail running footwear",
     image:
         "https://stockx.imgix.net/Salomon-S-Lab-XT-6-Softground-LT-Adv-Grey.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&trim=color&updated_at=1567050637&w=1000"
 };
@@ -31,7 +31,7 @@ function displayInfo1() {
 var shoe2 = {
     title: "Paraboot Michael",
     description:
-        "Derby plate jointed bead, two eyelets. Leather lined model, genuine Norwegian stitching, on natural rubber outsole. Handemade in France.",
+        "Derby plate jointed bead, two eyelets. Leather lined model, genuine Norwegian stitching, on natural rubber outsole.",
     image:
         "http://www.novoidplus.com/shop/includes/modules/kiss_image_thumbnailer/thumbs/911x668_paraboot-micheal-bbr-noir-1.jpg"
 };
@@ -61,7 +61,7 @@ function displayInfo2() {
 var shoe3 = {
     title: "Nike React 87",
     description:
-        "The see-through TPU upper and cored-out React foam midsole provide a deconstructed-yet-futuristic look unlike anything seen before.",
+        "The see-through TPU upper and cored-out React foam midsole provide a deconstructed-yet-futuristic look.",
     image:
         "https://stockx-360.imgix.net/Nike-React-Element-87-Undercover-Green-Mist/Images/Nike-React-Element-87-Undercover-Green-Mist/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1538080256&w=1000"
 };
@@ -90,7 +90,7 @@ function displayInfo3() {
 var shoe4 = {
     title: "Yeezy 700",
     description:
-        "The adidas Yeezy Boost 700 is a sneaker designed by Kanye West and adidas. It was first revealed during the Yeezy Season 5 fashion show in February, 2017, and later officially released on August 12th, 2017.",
+        "The adidas Yeezy Boost 700 is a sneaker designed by Kanye West and adidas.",
     image:
         "https://stockx-360.imgix.net/Adidas-Yeezy-700-Mauve/Images/Adidas-Yeezy-700-Mauve/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1539982972&w=1000"
 };
